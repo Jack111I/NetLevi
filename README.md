@@ -1,8 +1,12 @@
-
- NetLevi Sovereign v13.0
+ ███╗   ██╗███████╗████████╗██╗     ███████╗██╗   ██╗██╗
+ ████╗  ██║██╔════╝╚══██╔══╝██║     ██╔════╝██║   ██║██║
+ ██╔██╗ ██║█████╗     ██║   ██║     █████╗  ██║   ██║██║
+ ██║╚██╗██║██╔══╝     ██║   ██║     ██╔══╝  ╚██╗ ██╔╝██║
+ ██║ ╚████║███████╗   ██║   ███████╗███████╗ ╚████╔╝ ██║
+ NetLevi Sovereign v0.2 | By SAYO 
 > **The Terminal Overlord | 70+ Recon & Exposure Engines**
 
-![Version](https://img.shields.io/badge/version-13.0-red?style=for-the-badge&logo=ghostery)
+![Version](https://img.shields.io/badge/version-0.2-red?style=for-the-badge&logo=ghostery)
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -20,22 +24,7 @@
 * **Vuln-Hunter [46-60]:** CISA KEV Intelligence Matcher & Exploit-DB Linker.
 * **Ghost-Protocol [61-70+]:** Proxy-Rotation, Jitter Timing, and UA-Chaos for WAF Evasion.
 
----
-
-## 🛠️ Installation & Usage
-
-### 1. Clone the Arsenal
-```bash
-git clone
-cd NetLevi-Sovereign
-
-2. Setup Environment
-pip install -r requirements.txt
-
-3. Launch the Overlord
-python overlord.py
-
-📊 Terminal Output Preview
+##📊 Terminal Output Preview
 The tool dumps all findings directly into a structured, color-coded table. No saving, only exposing.
 | SECTOR | DATA |
 |---|---|
@@ -45,6 +34,23 @@ The tool dumps all findings directly into a structured, color-coded table. No sa
 ⚠️ Disclaimer
 This tool is for educational and authorized security auditing purposes only. Use of this tool against targets without prior written consent is illegal. The developer is not responsible for any misuse or damage caused by this program.
 <p align="center">
-Built with 💻 by [Your Name/Handle]
+Built with 💻 by SAYO 
 </p>
 
+
+## 🛠️ Installation & Usage
+
+### 1. Clone the Arsenal
+```bash
+git clone https://github.com/Jack111I/NetLevi.git
+cd NetLevi 
+
+2. Setup Environment
+pip install -r requirements.txt
+
+3. Launch the NetLevi
+python netlevi.py
+
+
+
+Have fun enjoy 
